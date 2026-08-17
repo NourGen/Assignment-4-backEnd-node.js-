@@ -1,0 +1,1 @@
+export {default as CreatDBUserController} from './CreatDBUser.controller.js'
